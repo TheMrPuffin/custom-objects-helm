@@ -8,6 +8,6 @@ entries:
     name: custom-objects-helm
     type: application
     urls:
-    - https://themrpuffin.github.io/custom-object-helm/custom-objects-helm-1.0.0.tgz
+    - https://themrpuffin.github.io/custom-objects-helm/custom-objects-helm-1.0.0.tgz
     version: 1.0.0
 generated: "2023-01-03T21:22:19.589533358Z"

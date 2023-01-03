@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  custom-objects-helm:
+  - apiVersion: v2
+    created: "2023-01-03T21:22:19.590375914Z"
+    description: A simple chart that allows for custom objects to a helm deployment
+    digest: a48834684d31e445b7370011a3e6e380eac59cd5805e436bc7917e86e4d9daa8
+    name: custom-objects-helm
+    type: application
+    urls:
+    - https://themrpuffin.github.io/custom-object-helm/custom-objects-helm-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-01-03T21:22:19.589533358Z"

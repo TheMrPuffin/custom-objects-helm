@@ -1,6 +1,0 @@
-apiVersion: v2
-name: custom-objects-helm
-description: A simple chart that allows for custom objects to a helm deployment
-type: application
-version: 1.0.0
-
